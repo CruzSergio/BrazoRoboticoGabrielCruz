@@ -147,4 +147,9 @@ h1{
     padding-left: 2em;
     padding-right: 5em;
 }
+.video_Proyecto{
+    box-shadow: purple;
+    border-radius: 1em;
+    border: 13px double brown;
 
+}
