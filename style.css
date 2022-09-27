@@ -83,6 +83,7 @@ h1{
     line-height: 25px;
     color:black;
     width: 300px;
+    padding: 0.5em 0;
 }
 
 .texto_cabecera{
@@ -132,3 +133,18 @@ h1{
     animation:change-color 4s ease 0s infinite normal;
     
     }
+.Proyecto{
+   
+    height: 100vh;
+   background-color:rgb(4, 186, 4);
+       display: flex;
+       align-items: center;
+    }
+.Proyecto div{
+
+    width: 50%;
+    padding: 0 ;
+    padding-left: 2em;
+    padding-right: 5em;
+}
+
